@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <title></title>
+    </head>
+<center>
+    <body>
+        <table border="2px" style="width: 100px;height: 100px;">
+            <tr>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\02.png">
+                </td>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\00.png">
+                </td>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\03.png">
+                </td>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\10.png">
+                </td>
+            </tr>
+            <tr>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\01.png">
+                </td>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\11.png">
+                </td>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\12.png">
+                </td>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\20.png">
+                </td>
+            </tr>
+            <tr>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\21.png">
+                </td>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\22.png">
+                </td>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline/23.png">
+                </td>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\30.png">
+                </td>
+            </tr>
+            <tr>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\13.png">
+                </td>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\31.png">
+                </td>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\32.png">
+                </td>
+                <td contenteditable="true">
+                    <img style="width: 100px;height: 100px;" src="C:\Users\NEELAMBAR MISHRA\Downloads\Screenshot 2024-01-28 180933-split\imageonline\33.png">
+                </td>
+            </tr>
+
+        </table>
+        <div contenteditable="true" style="margin-left:1000px;margin-top:-160px;width:100px;height:100px;position:absolute;border:solid;border-color:black">
+        </div>
+    </body>
+</center>
+</html>
