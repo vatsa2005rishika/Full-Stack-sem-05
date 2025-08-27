@@ -1,0 +1,37 @@
+<html>
+    <body>
+        <table border="2px" width="500px" height="500px">
+            <tr>
+                <td valign="top" align="left">A</td>
+                <td rowspan="2" valign="top" align="right">C</td>
+                <td rowspan="2" colspan="2">
+                    <table border="2px" width="50%" height="50%" align="center">
+                        <tr>
+                            <td>K</td>
+                            <td rowspan="2" valign="top" align="center">N</td>
+                        </tr>
+                        <tr>
+                            <td>L</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td valign="top" align="right">B</td>
+            </tr>
+            <tr>
+                <td colspan="2" valign="bottom" align="left">D</td>
+                <td rowspan="3" valign="bottom" align="right">H</td>
+                <td valign="bottom" align="right">J</td>
+            </tr>
+            <tr>
+                <td>E</td>
+                <td rowspan="2" halign="top" align="right">G</td>
+                <td rowspan="2" valign="top" align="right">I</td>
+            </tr>
+            <tr>
+                <td>F</td>
+            </tr>
+     </table>
+    </body>
+</html>
