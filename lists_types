@@ -1,0 +1,54 @@
+<html>
+
+<head>
+    <title>
+        SAMPLE HTML TABLE
+    </title>
+</head>
+
+<body>
+
+    <p>UNORDERED LIST LIST STYLE CIRCLE</p>
+    <ul style="list-style: circle;">
+        <li>Apple</li>
+        <li>Oranges</li>
+        <li>Grapes</li>
+        <li>Banana</li>
+    </ul>
+
+    <hr>
+
+      <p>UNORDERED LIST LIST STYLE DISC</p>
+    <ul style="list-style: disc;">
+        <li>Apple</li>
+        <li>Oranges</li>
+        <li>Grapes</li>
+        <li>Banana</li>
+    </ul>
+      <hr>
+
+        <p>UNORDERED LIST LIST STYLE SQUARE</p>
+    <ul style="list-style:square;">
+        <li>Apple</li>
+        <li>Oranges</li>
+        <li>Grapes</li>
+        <li>Banana</li>
+    </ul>
+      <hr>
+
+           <p>ORDERED LIST LIST</p>
+    <ol type="i" start="2">
+        <li>Apple</li>
+        <li>Oranges</li>
+        <li>Grapes</li>
+        <li>Banana</li>
+    </ol>
+    <ol  reversed>
+        <li>Apple</li>
+        <li>Oranges</li>
+        <li>Grapes</li>
+        <li>Banana</li>
+    </ol>
+
+</body>
+</html>
