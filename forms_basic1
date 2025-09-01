@@ -1,0 +1,23 @@
+<html>
+<body>
+    <form method="get" >
+        <input type="text" name="username" placeholder="ENTER YOUR NAME">
+        <input type="number" name="phone" placeholder="ENTER YOUR PHONE NUMBER">
+        <input type="password" name="password" placeholder="ENTER YOUR PASSWORD">
+        <select name="batch">
+            <option value="2023">2023</option>
+            <option value="2024">2024</option>
+            <option value="2025">2025</option>
+        </select>
+        <label> select gender: </label>
+        <label>MALE</label>
+        <input type="radio" name="gender" value="male">
+        <label>FEMALE</label>
+        <input type="radio" name="gender" value="female">
+
+        <label>I ACCEPT ALL TERMS AND CONDITIONS !</label>
+        <input type="checkbox">>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
