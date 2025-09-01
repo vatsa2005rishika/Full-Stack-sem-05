@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Definition Tag</title>
+    </head>
+    <body>
+        <dl>
+        <dt>HTML</dt>
+        <dd>HYPER TEXT MAEKUP LANGUAGE</dd>
+    </dl>
+    <dl>
+        <dt>HTTP</dt>
+        <dd>HYPER TEXT TRANSFER PROTOCOL</dd>
+    </dl>
+
+
+    <a target="_blank"  href="https://www.google.com"> I AM THE GOOGLE TAG ! </a>
+    <br>
+    <a target="_blank"  href="mailto:prabhat1.das@adamasuniversity.ac.in"> I AM THE MAIL ME TAG ! </a>
+    <br>
+    <a target="_blank"  href="tel:+919876543210"> I AM THE CALLING TAG ! </a>
+    <br>    
+    <a target="_blank"  href="file:///C:/Users/Sidharth/Downloads/sample.pdf"> I AM THE FILE TAG ! </a>
+    <br>
+    <a target="_blank"  href=" https://wa.me/917029136164"> I AM THE WHATSAPP TAG! </a>
+    <br>
+    <a target="_blank"  href="https://api.whatsapp.com/send/?phone=917029136164&text=Hello i want to connect are you available ?&type=phone_number&app_absent=0"> I AM THE SEND ME DM TAG ! </a>
+
+</html>
