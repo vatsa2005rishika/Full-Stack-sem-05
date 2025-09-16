@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Notable&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+  <style>
+   body {
+  margin: 0;
+  background: #1e1e1e;
+  color: white;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+    .comic-hero {
+      background: #000;
+      border: 8px solid #ffcc00;
+      padding: 40px 20px;
+      text-align: center;
+      box-shadow: 0px 10px 25px rgba(0,0,0,0.8);
+    }
+
+    .comic-hero h1 {
+      font-family: "Notable", sans-serif;
+      font-size: 65px;
+      color: #ff3131;
+      text-shadow: 3px 3px #ffd500, -3px -3px #00eaff;
+      margin: 0;
+    }
+
+    .comic-hero p {
+      font-size: 24px;
+      margin-top: 15px;
+      font-style: italic;
+      color: #fff;
+    }
+
+    h2 {
+      font-family: "Shadows Into Light", cursive;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 40px;
+      text-shadow: 2px 2px 5px black;
+      color: white;
+      text-align: center;
+      margin-top: 40px;
+    }
+
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 15px;
+      margin: 20px auto;
+      max-width: 1200px;
+    }
+
+    .spider_image {
+      width: 220px;
+      height: 320px;
+      border-radius: 12px;
+      box-shadow: 0px 4px 15px rgba(0,0,0,0.6);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .spider_image:hover {
+      transform: scale(1.08);
+      box-shadow: 0px 8px 25px rgba(255,255,255,0.6);
+    }
+  </style>
+</head>
+<body>
+  
+  <div class="comic-hero">
+    <h1>SPIDER-VERSE</h1>
+    <p>"Anyone can wear the mask."</p>
+  </div>
+
+  
+  <h2>Meet MILES MORALES (Earth-1610B)</h2>
+  <div class="gallery">
+    <img class="spider_image" src="assets/i_am_spiderman2.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman3.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman4.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman5.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman6.jpeg">
+  </div>
+
+  <h2>Say hello to GWEN STACY (Earth-65)</h2>
+  <div class="gallery">
+    <img class="spider_image" src="assets/i_am_spiderman7.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman8.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman9.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman10.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman11.jpeg">
+  </div>
+
+  <h2>Our PETER B. PARKER (Earth-616)</h2>
+  <div class="gallery">
+    <img class="spider_image" src="assets/i_am_spiderman12.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman13.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman14.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman15.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman16.jpeg">
+  </div>
+
+  <h2>THE SPIDER PUNK (Earth-138)</h2>
+  <div class="gallery">
+    <img class="spider_image" src="assets/i_am_spiderman17.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman18.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman19.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman20.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman21.jpeg">
+  </div>
+
+  <h2>Indian Spiderman PAVITR PRABHAKAR (Earth-50101)</h2>
+  <div class="gallery">
+    <img class="spider_image" src="assets/i_am_spiderman22.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman23.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman24.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman25.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman26.jpeg">
+  </div>
+
+  <h2>SPIDER NOIR from the black and white Universe (Earth-90214)</h2>
+  <div class="gallery">
+    <img class="spider_image" src="assets/i_am_spiderman27.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman28.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman29.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman30.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman31.jpeg">
+  </div>
+
+  <h2>And Lastly, SPIDER-HAM and PENI PARKER</h2>
+  <div class="gallery">
+    <img class="spider_image" src="assets/i_am_spiderman32.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman33.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman34.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman35.jpeg">
+    <img class="spider_image" src="assets/i_am_spiderman36.jpeg">
+  </div>
+
+</body>
+</html>
